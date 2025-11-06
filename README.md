@@ -42,7 +42,7 @@ Soy un **Desarrollador Full Stack** apasionado por la tecnología y la innovaci�
 </div>
 
 ### 📫 Puedes visitar  
-- 🌐 [https://me.neft.com.mx]
+- 🌐 [https://link.neft.com.mx]
 
 ---
 
