@@ -6,7 +6,12 @@
 
 Plataformas para educación e instituciones: identidad centralizada, SaaS multi-tenant, sistemas administrativos, LMS y apps web y móviles.
 
-<a href="https://link.neft.com.mx"><img src="https://img.shields.io/badge/link.neft.com.mx-0F172A?style=for-the-badge&logo=linktree&logoColor=white" alt="link.neft.com.mx"/></a>
+<a href="https://link.neft.com.mx">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/link.neft.com.mx-F1F5F9?style=for-the-badge&logo=linktree&logoColor=0F172A"/>
+    <img src="https://img.shields.io/badge/link.neft.com.mx-0F172A?style=for-the-badge&logo=linktree&logoColor=white" alt="link.neft.com.mx"/>
+  </picture>
+</a>
 
 </div>
 
@@ -41,8 +46,14 @@ Productos propios para escuelas y universidades.
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeftaliRuiz&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&locale=es&hide_border=true&hide_title=true" height="120" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeftaliRuiz&layout=compact&theme=transparent&locale=es&hide_border=true" height="120" alt="Lenguajes más usados"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg"/>
+    <img src="profile-summary-card-output/github/3-stats.svg" height="150" alt="Estadísticas de GitHub"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+    <img src="profile-summary-card-output/github/2-most-commit-language.svg" height="150" alt="Lenguajes más usados"/>
+  </picture>
 </p>
 
 <p align="center">
