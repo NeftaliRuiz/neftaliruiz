@@ -1,49 +1,59 @@
-<h1 align="center">👋 ¡Hola, soy Neftalí Ruiz! 🚀</h1>
-
-### 💻 Sobre mí  
-Soy un **Desarrollador Full Stack** apasionado por la tecnología y la innovación. Me especializo en **C#, Angular, .NET y node js**, y disfruto mucho crear.  
-
-- 🚀 Actualmente liderando un equipo de desarrollo.  
-- 🌱 Aprendiendo **Angular avanzado y metodologías ágiles**.  
-- ✍️ Enseñando sobre **Git y buenas prácticas de desarrollo**.  
-
-### 🛠️ Tecnologías y Herramientas  
-<div align="left">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-InDesign-FF3366?style=flat&logo=adobe-indesign&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white"/>
-</div>
-
-### 📊 Estadísticas GitHub:
 <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NEFTALIRUIZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEFTALIRUIZ&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-### 📫 Puedes visitar  
-- 🌐 [https://link.neft.com.mx]
+# Neftalí Ruiz
+
+**Desarrollador Full Stack · Arquitecto de software · Fundador de NEFT**
+
+Plataformas para educación e instituciones: identidad centralizada, SaaS multi-tenant, sistemas administrativos, LMS y apps web y móviles.
+
+<a href="https://link.neft.com.mx"><img src="https://img.shields.io/badge/link.neft.com.mx-0F172A?style=for-the-badge&logo=linktree&logoColor=white" alt="link.neft.com.mx"/></a>
+
+</div>
 
 ---
 
-> _"Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres." **Colosenses 3:23**_  
+### Perfil
+
+- Arquitectura y desarrollo de extremo a extremo: backend, frontend, bases de datos, despliegue y documentación.
+- Identidad y seguridad: OpenID Connect, SSO, MFA y control de acceso por roles y permisos.
+- Liderazgo técnico: estándares, plantillas, SDK y flujos de desarrollo asistidos por IA.
+
+### Plataformas institucionales
+
+Colaboro en un ecosistema de más de 15 aplicaciones que comparten identidad, SDK y plantillas estándar.
+
+<p align="center"><img src="assets/plataformas.svg" width="820" alt="Ecosistema de plataformas institucionales"/></p>
+
+### NEFT
+
+Productos propios para escuelas y universidades.
+
+<p align="center"><img src="assets/neft.svg" width="820" alt="Productos NEFT"/></p>
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,php,dart,html,css,angular,nextjs,react,vue,flutter,tailwind,bootstrap,nodejs,express,nestjs,dotnet,laravel,prisma,wordpress,postgres,mysql,redis,docker,nginx,linux,vercel,git,github,githubactions,bitbucket,postman,figma,ps,ai,notion&perline=13" width="480" alt="Stack tecnológico"/>
+</p>
+
+<p align="center"><sub>También: OpenID Connect · SQL Server · Moodle · Socket.io · Microsoft Entra ID · Claude Code · MCP</sub></p>
+
+### GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeftaliRuiz&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&locale=es&hide_border=true&hide_title=true" height="120" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeftaliRuiz&layout=compact&theme=transparent&locale=es&hide_border=true" height="120" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NeftaliRuiz/neftaliruiz/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/NeftaliRuiz/neftaliruiz/output/snake.svg" alt="Contribuciones"/>
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub><i>"Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres."</i> — Colosenses 3:23</sub>
+</p>

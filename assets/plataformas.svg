@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210">
+  <style>
+    text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+    .t{fill:#1F2328;font-size:13px;font-weight:600}
+    .s{fill:#656D76;font-size:11.5px}
+    .l{fill:#656D76;font-size:10px;letter-spacing:1.2px}
+    .b{fill:none;stroke:#D0D7DE}
+    .k{fill:none;stroke:#0969DA;stroke-width:1.4}
+    .ln{fill:none;stroke:#8C959F}
+    .ah{fill:#8C959F}
+    @media (prefers-color-scheme:dark){
+      .t{fill:#E6EDF3}.s,.l{fill:#8D96A0}.b{stroke:#30363D}.k{stroke:#4493F8}.ln{stroke:#6E7681}.ah{fill:#6E7681}
+    }
+  </style>
+  <defs><marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto"><path class="ah" d="M0 0L8 4L0 8z"/></marker></defs>
+  <g text-anchor="middle">
+    <text class="l" x="91" y="14">IDENTIDAD</text>
+    <rect class="k" x="1" y="65" width="180" height="70" rx="6"/>
+    <text class="t" x="91" y="95">Identidad central</text>
+    <text class="s" x="91" y="115">OIDC · SSO · MFA</text>
+
+    <text class="l" x="321" y="14">BASE COMÚN</text>
+    <rect class="b" x="231" y="65" width="180" height="70" rx="6"/>
+    <text class="t" x="321" y="95">SDK y plantillas</text>
+    <text class="s" x="321" y="115">CLI · portal dev · MCP</text>
+
+    <text class="l" x="571" y="14">APLICACIONES</text>
+    <rect class="b" x="461" y="28" width="220" height="172" rx="6"/>
+    <text class="s" x="571" y="56">CRM</text>
+    <text class="s" x="571" y="82">Recursos humanos y nómina</text>
+    <text class="s" x="571" y="108">Planeación estratégica</text>
+    <text class="s" x="571" y="134">Finanzas y reportes</text>
+    <text class="s" x="571" y="160">Formularios y encuestas</text>
+    <text class="s" x="571" y="186">Cuentas Microsoft 365</text>
+
+    <text class="l" x="804" y="14">CLIENTES</text>
+    <rect class="b" x="731" y="45" width="146" height="56" rx="6"/>
+    <text class="t" x="804" y="69">Web</text>
+    <text class="s" x="804" y="88">Angular · Next.js</text>
+    <rect class="b" x="731" y="127" width="146" height="56" rx="6"/>
+    <text class="t" x="804" y="151">Móvil</text>
+    <text class="s" x="804" y="170">Flutter</text>
+  </g>
+  <g class="ln" marker-end="url(#a)">
+    <path class="ln" d="M182 100H229"/>
+    <path class="ln" d="M412 100H459"/>
+    <path class="ln" d="M682 100C706 100 706 73 729 73"/>
+    <path class="ln" d="M682 100C706 100 706 155 729 155"/>
+  </g>
+</svg>

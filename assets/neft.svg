@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <style>
+    text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+    .t{fill:#1F2328;font-size:13px;font-weight:600}
+    .s{fill:#656D76;font-size:11.5px}
+    .l{fill:#656D76;font-size:10px;letter-spacing:1.2px}
+    .b{fill:none;stroke:#D0D7DE}
+    .k{fill:none;stroke:#0969DA;stroke-width:1.4}
+    .ln{fill:none;stroke:#8C959F}
+    .ah{fill:#8C959F}
+    @media (prefers-color-scheme:dark){
+      .t{fill:#E6EDF3}.s,.l{fill:#8D96A0}.b{stroke:#30363D}.k{stroke:#4493F8}.ln{stroke:#6E7681}.ah{fill:#6E7681}
+    }
+  </style>
+  <defs><marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto"><path class="ah" d="M0 0L8 4L0 8z"/></marker></defs>
+  <g text-anchor="middle">
+    <rect class="k" x="1" y="72" width="160" height="56" rx="6"/>
+    <text class="t" x="81" y="96">NEFT ID</text>
+    <text class="s" x="81" y="115">identidad única</text>
+
+    <rect class="k" x="211" y="72" width="170" height="56" rx="6"/>
+    <text class="t" x="296" y="96">NEFT Hub</text>
+    <text class="s" x="296" y="115">SaaS multi-tenant</text>
+
+    <rect class="b" x="451" y="6" width="200" height="56" rx="6"/>
+    <text class="t" x="551" y="30">NEFT LMS</text>
+    <text class="s" x="551" y="49">portal sobre Moodle</text>
+
+    <rect class="b" x="451" y="72" width="200" height="56" rx="6"/>
+    <text class="t" x="551" y="96">NEFT SIS</text>
+    <text class="s" x="551" y="115">alumnos · kardex · finanzas</text>
+
+    <rect class="b" x="451" y="138" width="200" height="56" rx="6"/>
+    <text class="t" x="551" y="162">Sitios educativos</text>
+    <text class="s" x="551" y="181">Next.js · SEO · rendimiento</text>
+
+    <rect class="b" x="707" y="6" width="170" height="56" rx="6"/>
+    <text class="t" x="792" y="30">Plugins Moodle</text>
+    <text class="s" x="792" y="49">formato · kardex · contenidos</text>
+  </g>
+  <g marker-end="url(#a)">
+    <path class="ln" d="M162 100H209"/>
+    <path class="ln" d="M382 100C416 100 416 34 449 34"/>
+    <path class="ln" d="M382 100H449"/>
+    <path class="ln" d="M382 100C416 100 416 166 449 166"/>
+    <path class="ln" d="M652 34H705"/>
+  </g>
+</svg>
